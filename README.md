@@ -4,6 +4,7 @@ npx create-react-app gitToContainer
 
 npm start
 
+
 ## Docker container start:
 
 docker run --publish 3000:3000 --detach *image name here*
