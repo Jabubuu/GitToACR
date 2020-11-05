@@ -26,8 +26,8 @@ jobs:
     - run: |
         docker build . -t project7.azurecr.io/gitcontainer:${{ github.sha }}
         docker push project7.azurecr.io/gitcontainer:${{ github.sha }} 
-      
-    - uses: azure/webapps-deploy@v2
-      with:
-        app-name: 'ictproject'
-        images: 'project7.azurecr.io/gitcontainer:${{ github.sha }}'
+  #    
+ #   - uses: azure/webapps-deploy@v2
+ #     with:
+  #      app-name: 'ictproject'
+    #    images: 'project7.azurecr.io/gitcontainer:${{ github.sha }}'
