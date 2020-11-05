@@ -35,4 +35,4 @@ jobs:
             registry-login-server: project7.azurecr.io
             registry-username: ${{ SECRETS.REGISTRY_USERNAME }}
             registry-password: ${{ SECRETS.REGISTRY_PASSWORD }}
-            location: northeurope
+            location: 'northeurope'
