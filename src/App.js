@@ -10,7 +10,7 @@ function App() {
           Testing version control and docker containers
         </p>
         <p>
-          Version 6.11.2020 klo 12 reikäleipä
+          Version 10.11.2020 klo 16 reikäleipä
         </p>
         <a
           className="App-link"
