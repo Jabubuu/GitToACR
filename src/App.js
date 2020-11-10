@@ -7,10 +7,10 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Testing version control and docker containers
+          learn react
         </p>
         <p>
-          Version 6.11.2020 klo 12 reikäleipä
+          Version 10.11.2020 klo 16 reikäleipä
         </p>
         <a
           className="App-link"
