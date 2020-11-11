@@ -10,7 +10,7 @@ function App() {
           learn react
         </p>
         <p>
-          Version 10.11.2020 klo 18 reikäleipä
+          Version 11.11.2020 klo 14 reikäleipä
         </p>
         <a
           className="App-link"
