@@ -10,7 +10,7 @@ function App() {
           learn react
         </p>
         <p>
-          Version 11.11.2020 Päivän vika testi mä en keztä
+          Version 25.11.2020 Hello World!
         </p>
         <a
           className="App-link"
